@@ -139,10 +139,6 @@ body {
   overflow: hidden;
 }
 
-.mobile-menu-container {
-  position: relative;
-}
-
 .burger-close-menu {
   display: flex;
   align-items: center;
